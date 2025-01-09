@@ -32,3 +32,5 @@ createApp(App).use(pinia).use(router).mount("#app");
 // app.use(router)
 
 // app.mount('#app')
+
+//test
